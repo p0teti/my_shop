@@ -14,4 +14,4 @@ const LAYOUT_DIR = VIEW_DIR . "layouts/";
 session_start();
 session_regenerate_id(true);
 require_once LIB_DIR . 'DB.php';
-?>
+?>a
